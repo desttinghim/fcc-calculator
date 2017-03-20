@@ -2,7 +2,6 @@
 .calculator {
   background-color: grey;
   margin: 10px auto;
-  max-width: 300px;
   display: block;
   padding: 15px 10px;
   border-radius: 3px;
@@ -18,5 +17,4 @@
 
 .calculator .buttons button {
   height: 50px;
-  /*margin-top: 10px;*/
 }
