@@ -9,7 +9,7 @@
 
 .calculator .screen {
   background-color: #98E8A5;
-  font-size: 18pt;
+  /*font-size: 18pt;*/
   text-align: right;
   height: 80px;
   border-radius: 2px;
@@ -18,3 +18,9 @@
 .calculator .buttons button {
   height: 50px;
 }
+
+/*@media (max-width: 480px) {
+  body {
+    font-size: 20px;
+  }
+}*/
